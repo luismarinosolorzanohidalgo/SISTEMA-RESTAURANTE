@@ -27,4 +27,4 @@ Ideal para negocios que buscan organizar sus procesos de manera eficiente y visu
 ## 🚀 Instalación y uso
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/sistema-restaurante.git
+   git clone https://github.com/tuusuario/sistema-restaurante.git](https://github.com/LUIS-SOLORZANO03/SISTEMA-RESTAURANTE.git
